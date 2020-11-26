@@ -1,4 +1,6 @@
-# Java-Projects
+# Java-Projects (School Assignments)
+
+Each folder contains a PDF better describing the Program.
 
 FinalBouncingBalls - This program is the final continuation of BouncingBall, BallsScattering and SortingAndStackingBalls. This program brings all of these programs togeather by allowing users to choose the parameters such as (number of balls being scatted, minimum radius, minimum launch angle etc...) Finally you have the option to run the simulation, clear the samulation, stop the simulation and sort it. This program focuses on developing a user friendly interface with sliders and buttons. Note: This program uses and external Jar acm.jar.
 
