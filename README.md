@@ -1,5 +1,7 @@
 # Java-Projects
 
+BouncingBall - This program simulates a real life kinematics trajectory of a ball bouncing. The program takes user's input (initial velocity, energy loss paramter, launch angle and the balls radius) and performs the simulation. Note: This program uses and external Jar acm.jar.
+
 CatTree - This program implements a binary tree using cats as nodes. These cats have the following attributes: age, fur thickness and a name. This program implements adding or removing the cat (node) to their corresponding position on their tree which depend on their corresponding attributes relative to the nodes already in the tree.
 
 SearchingThroughADataBase- This program is designed to simulate searching through a twitter database, this program focuses on time efficiency and creates a hashTabel from scratch. 
