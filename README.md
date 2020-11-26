@@ -1,5 +1,7 @@
 # Java-Projects
 
+FinalBouncingBalls - This program is the final continuation of BouncingBall, BallsScattering and SortingAndStackingBalls. This program brings all of these programs togeather by allowing users to choose the parameters such as (number of balls being scatted, minimum radius, minimum launch angle etc...) Finally you have the option to run the simulation, clear the samulation, stop the simulation and sort it. This program focuses on developing a user friendly interface with sliders and buttons. Note: This program uses and external Jar acm.jar.
+
 SortingAndStackingBalls - This program is a continuation of BallsScattering. This program sorts all the balls in increasing radius, if some of the balls have the same radius than they are stacked on top of one another. This program implements a binary tree. Note: This program uses and external Jar acm.jar.
 
 BallsScattering - This program is a continuation of BouncingBall except this program simulates 100 balls all with randomly chosen parameters bouncing untill at rest. Note: This program uses and external Jar acm.jar.
