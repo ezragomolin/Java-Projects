@@ -1,4 +1,4 @@
-# Java-Projects (School Assignments)
+# Java-Projects (School Projects)
 
 Each folder contains a PDF better describing the Program.
 
