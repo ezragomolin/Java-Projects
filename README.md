@@ -1,5 +1,7 @@
 # Java-Projects
 
+SortingAndStackingBalls - This program is a continuation of BallsScattering. This program sorts all the balls in increasing radius, if some of the balls have the same radius than they are stacked on top of one another. This program implements a binary tree. Note: This program uses and external Jar acm.jar.
+
 BallsScattering - This program is a continuation of BouncingBall except this program simulates 100 balls all with randomly chosen parameters bouncing untill at rest. Note: This program uses and external Jar acm.jar.
 
 BouncingBall - This program simulates a real life kinematics trajectory of a ball bouncing. The program takes user's input (initial velocity, energy loss paramter, launch angle and the balls radius) and performs the simulation. Note: This program uses and external Jar acm.jar.
